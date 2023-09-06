@@ -5,4 +5,12 @@ ion-content {
   --background: $light;
   color: $dark;
   --color: $dark;
+
+  p {
+    font-family: "test2";
+  }
+
+  span {
+    font-family: "test3";
+  }
 }
