@@ -1,0 +1,7 @@
+{
+  "name": "shytest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
