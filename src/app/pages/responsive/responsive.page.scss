@@ -1,0 +1,16 @@
+@import "../../../global.scss";
+
+ion-content {
+  background-color: $light;
+  --background: $light;
+  color: $dark;
+  --color: $dark;
+}
+
+#CSS-responsive {
+  font-size: calc(var(--responsiveUnit) * 1);
+}
+
+#CSS-debug {
+  font-size: calc(var(--responsiveUnit) * 4);
+}

@@ -91,7 +91,7 @@ $light: #f4f5f8;
   --responsiveUnit: 1vmax;
 
   //! DEBUG
-  --windowOrientation: landscape;
+  --screenOrientation: landscape;
 }
 
 @media (orientation: portrait) {
@@ -99,7 +99,7 @@ $light: #f4f5f8;
     --responsiveUnit: 1vmin;
 
     //! DEBUG
-    --windowOrientation: portrait;
+    --screenOrientation: portrait;
   }
 }
 
@@ -108,7 +108,7 @@ $light: #f4f5f8;
     --responsiveUnit: 1vmax;
 
     //! DEBUG
-    --windowOrientation: landscape;
+    --screenOrientation: landscape;
   }
 }
 //! Responsive Stuff [END]
